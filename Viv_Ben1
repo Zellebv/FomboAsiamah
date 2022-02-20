@@ -1,0 +1,9 @@
+echo "enter your username"
+read username
+echo "enter your password"
+read -s password
+echo "account has successfully been created"
+date
+whoami
+echo "$username I am glad to be part of this team"
+

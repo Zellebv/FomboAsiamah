@@ -1,0 +1,8 @@
+echo "enter name"
+read name
+echo "enter password"
+read password
+echo "$name I am going to be rich"
+date
+whoami
+
